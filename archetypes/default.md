@@ -7,5 +7,4 @@ categories:
   - ""
 tags:
   - ""
-share: true
 ---
